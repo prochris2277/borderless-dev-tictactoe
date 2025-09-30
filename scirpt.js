@@ -1,8 +1,8 @@
-let player1 = {
+const player1 = {
     name: "Promise", 
     Symbol: "X"
 };
-let player2 = {
+const player2 = {
     name: "Jake", 
     Symbol: "O"
 };
